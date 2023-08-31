@@ -1,1 +1,1 @@
-<h3>Hosted link:-</h3>https://aaqibbashirmir.github.io/tailwindproject/
+<h3>Hosted link:-</h3>https://aaqibbashirmir.github.io/tailwindproject/index.html
